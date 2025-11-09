@@ -11,7 +11,6 @@ module.exports = [
   'core',
   'debug',
   'react',
-  'react-native',
   'ai',
   'plugins',
   'master',

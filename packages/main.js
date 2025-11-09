@@ -8,7 +8,6 @@
 
 import { Client } from '../src/client/client';
 import { Client as ReactClient } from '../src/client/react';
-import { Client as ReactNativeClient } from '../src/client/react-native';
 import { TurnOrder } from '../src/core/turn-order';
 import { Step, Simulate } from '../src/ai/ai';
 import { RandomBot } from '../src/ai/random-bot';
