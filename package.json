@@ -138,10 +138,5 @@
     "svelte": "^5.43.5",
     "svelte-json-tree-auto": "^0.1.0",
     "ts-toolbelt": "^9.6.0"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
   }
 }
